@@ -1,10 +1,3 @@
-To understand how these three components work together deeply, we have to look at them not as separate entities, but as a single, tightly integrated machine.
-
-When an application executes a SQL statement on a RAC cluster, **GRD is the database**, **GES is the traffic cop**, and **GCS is the courier**.
-
-Here is the exact architectural breakdown of how they cooperate, followed by a step-by-step deep dive into a real-world scenario.
-
----
 
 ## The Core Interaction Architecture
 
