@@ -1,4 +1,5 @@
 
+
 ## The Core Interaction Architecture
 
 The relationship relies on a concept called **Resource Mastering**. Every single data block and lock in the cluster has a specific RAC instance assigned as its "Master."
