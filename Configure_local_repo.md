@@ -12,7 +12,7 @@ To install **`oracle-database-preinstall-19c`**, **`oracleasm-support`**, and **
 
 ## Step 1: Transfer Required External ASMLib Packages
 
-On an internet-connected host, download the matching ASMLib packages for Oracle Linux 8 (`x86_64`) from the [Oracle Technology Network](https://www.oracle.com/linux/downloads/linux-asmlib-v8-downloads.html) or [Oracle Yum Repository](https://yum.oracle.com):
+On an internet-connected host, download the matching ASMLib packages for Oracle Linux 8 (`x86_64`) from the [Oracle Technology Network](https://www.oracle.com/linux/downloads/linux-asmlib-v8-downloads.html) or [pkgs.org](https://pkgs.org/search/?q=oracleasm-support):
 
 1. `oracleasmlib-3.0.x` or `oracleasmlib-3.1.x` RPM
 2. `oracleasm-support` RPM
